@@ -23,7 +23,7 @@ The above command will show you all things deployed. Check out the image. We see
 ![image](https://user-images.githubusercontent.com/45314106/111628312-6026fa00-87f0-11eb-89f3-573de0136958.png)
 
   
-This tells us the port 31427 on which the nginx is listening now: Now open: http://localhost:32601/
+This tells us the port 32601 on which the nginx is listening now: Now open: http://localhost:32601/
 
 ## Here you are: Your very own nginx running on kubenetes.
 
