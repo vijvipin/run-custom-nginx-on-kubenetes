@@ -5,11 +5,12 @@
 So this example show you " How can you run your own customer images from docker.hub on kubenetes.
 
 Take following two steps [On windows Machine]
-1. First put both these files in a folder on your machine.
+1. First put both these files a) dep.yaml b) service.yaml in a folder on your machine.
 2. Open CMD and move to this folder and run follwoing two KUBECTL commands
 
 `
 $ kubectl apply -f dep.yaml
+
 $ kubectl apply -f service.yaml
 `
 
